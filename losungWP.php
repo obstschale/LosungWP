@@ -1,9 +1,9 @@
 <?php
 /*
 Plugin Name: LosungWP
-Plugin URI: http://
+Plugin URI: http://blog.hanshelgebuerger.de/losungwp/
 Description: Zeigt die täglichen Losungsverse als Dashboard Widget im Admin Panel an
-Version: 0.1a
+Version: 0.0.1
 Author: Hans-Helge Buerger
 Author URI: http://hanshelgebuerger.de
 License: GPLv2 or later
